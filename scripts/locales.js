@@ -1,0 +1,1 @@
+module.exports = ['en-US', 'de-DE', 'fr-FR', 'it-IT', 'es-ES', 'pt-BR', 'ja-JP', 'zh-CN', 'zh-TW'];

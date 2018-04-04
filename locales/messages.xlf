@@ -1,0 +1,2076 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en-US" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="27e104b81d7bd91d93fa5bdbf5d3cc12911e0ca3" datatype="html">
+        <source>Login with your IBM ID</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/common/components/gtd-login/login.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2e6415881bab2d819fbfb4f93dd9e70cdb2880ea" datatype="html">
+        <source>Shipment Information Pipeline</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/common/components/gtd-navbar/navbar.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/common/components/gtd-navbar/navbar.component.ts</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e786c00d3fe38049d5ed884db243e2b9723c20e7" datatype="html">
+        <source>Paperless Trade</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/common/components/gtd-navbar/navbar.component.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/common/components/gtd-navbar/navbar.component.ts</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="41aac9cecddc9f345c263d3742192e68e227e413" datatype="html">
+        <source>Menu</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/common/components/gtd-navbar/navbar.component.ts</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-manager/shipments-manager.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="244aae9346da82b0922506c2d2581373a15641cc" datatype="html">
+        <source>Email</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/common/components/gtd-navbar/navbar.component.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">174</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f3a58c8a81b9ffda26a154eae25a422c9f7de37b" datatype="html">
+        <source>Organization</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/common/components/gtd-navbar/navbar.component.ts</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e21062bfbcce4f7019cfd3fb4698cb4613ad174d" datatype="html">
+        <source><x id="TAG_IMG" ctype="image" equiv-text="&lt;img/&gt;"/>User Management</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/common/components/gtd-navbar/navbar.component.ts</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="640eec093c685babaa3265137215e3cc92ad704d" datatype="html">
+        <source>Sign Out</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/common/components/gtd-navbar/navbar.component.ts</context>
+          <context context-type="linenumber">49</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9124ed64d8cd141d7384c28ae44769f3a07f45eb" datatype="html">
+        <source>{VAR_SELECT, select, renderData {There was a problem rendering your data. Please try again later.} other {<x id="INTERPOLATION" equiv-text="{{errorMessage}}"/>} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/common/components/gtd-error/error.component.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b80f8ea73c0e6be2c71c72925e612badff65ff0a" datatype="html">
+        <source>{VAR_SELECT, select, uploaderror {Document Upload Error} signerror {Document Signing Error} sessionerror {Session Expired} createshipmenterror {New Shipment Error} retrieveshipmenterror {Retrieve Shipment Error} workflowerror {Retrieving Workflows Error} other {<x id="INTERPOLATION" equiv-text="{{errorKey}}"/>} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/common/components/gtd-error-dialog/error-dialog.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="32ed16d60779555243679f646b29339a5b796d30" datatype="html">
+        <source> <x id="ICU" equiv-text="{ errorKey, select, uploaderror {...} signerror {...} sessionerror {...} createshipmenterror {...} retrieveshipmenterror {...} workflowerror {...} other {...}}"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/common/components/gtd-error-dialog/error-dialog.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7c8cdaff0bcfe8fd869dcc6a19eddf1b54d50684" datatype="html">
+        <source>{VAR_SELECT, select, uploaderror {An error occurred while uploading a document.} signerror {An error occurred while signing the document.} sessionerror {Your session has expired. Please log in again.} createshipmenterror {An error occurred while creating the shipment.} retrieveshipmenterror {An error occurred while retrieving the shipment.} workflowerror {An error occurred while retrieving workflows.} other {<x id="INTERPOLATION" equiv-text="{{errorKey}}"/>} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/common/components/gtd-error-dialog/error-dialog.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f4e529ae5ffd73001d1ff4bbdeeb0a72e342e5c8" datatype="html">
+        <source>Close</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/common/components/gtd-error-dialog/error-dialog.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">155</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a63c2747e01ca757bd280c50399464e26c24c6c8" datatype="html">
+        <source> <x id="ICU" equiv-text="{ appCode, select, admin {...} evd {...} evp {...} roles {...}}"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/common/components/gtd-title/title.component.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6971004dc25584e33635b2cc005cd9713e1fe6f0" datatype="html">
+        <source>{VAR_SELECT, select, admin {Admin} evd {Global Trade Digitization} evp {Event Publisher} roles {Role Management} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/common/components/gtd-title/title.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="00ba4b1512a9ac0bff1baf1fcfede65749da8a8e" datatype="html">
+        <source>Invalid URI</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/common/components/gtd-document-link/document-link.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7c74ea07da29ed33a7f84b39ed4291b9b4634106" datatype="html">
+        <source>Post new event</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evp/components/gtd-poster/event-poster.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="668d6c23eac73801d2116e3d3dc30f13fb0d4b96" datatype="html">
+        <source>Select event type: </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evp/components/gtd-poster/event-poster.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d0bb488eb47d113690c246045e6d56fc0abced17" datatype="html">
+        <source> <x id="START_TAG_NG-TEMPLATE" ctype="x-ng-template" equiv-text="&lt;ng-template&gt;"/> <x id="START_TAG_DIV_1" ctype="x-div" equiv-text="&lt;div&gt;"/> <x id="START_TAG_DIV" ctype="x-div" equiv-text="&lt;div&gt;"/><x id="INTERPOLATION" equiv-text="{{ type.label }}"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/> <x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/> <x id="CLOSE_TAG_NG-TEMPLATE" ctype="x-ng-template" equiv-text="&lt;/ng-template&gt;"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evp/components/gtd-poster/event-poster.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="47724dff8bdafeb33dca89b45967813924466bb5" datatype="html">
+        <source>Event Transaction Id</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evp/components/gtd-poster/event-poster.component.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="bf695cdbf2c6d1874778462a0356ac59bd22a0c2" datatype="html">
+        <source>Container Transport Id</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evp/components/gtd-poster/event-poster.component.ts</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="62bccd87f8a2fdb1efe3a0c16fc6349f9119c855" datatype="html">
+        <source>Shipment Id</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evp/components/gtd-poster/event-poster.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="af88c1e95a1d16d3cdbb7210981e0bfb6dc1d137" datatype="html">
+        <source>Events</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evp/components/gtd-poster/event-poster.component.ts</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="722ea09e9692afbe872ffa34694ed198ae1b14fb" datatype="html">
+        <source>Delegation Id</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evp/components/gtd-poster/event-poster.component.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f901afd7d8e51d3d68a4dcea918c4257922ce4af" datatype="html">
+        <source>{VAR_SELECT, select, 401 {Your session has expired. Logging out...} other {<x id="INTERPOLATION" equiv-text="{{errorMessage}}"/>} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evp/components/gtd-poster/event-poster.component.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="fade9944997f401b526cc328e0199af5091ba385" datatype="html">
+        <source>Create New Workflow</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/admin/components/gtd-workflow-editor/gtd-workflow-editor.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="169f2780022394b9d611871fe34c2cb87f759ed2" datatype="html">
+        <source>Reset form</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/admin/components/gtd-workflow-editor/gtd-workflow-editor.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/admin/components/gtd-participants-editor/gtd-participants-editor.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="17474f6451c6ae4981f7f9e71604b7773c15454b" datatype="html">
+        <source>{VAR_SELECT, select, unavailable {Workflow created successfully. Workflow ID is unavailable.} other {Workflow created successfully. Workflow ID is <x id="INTERPOLATION" equiv-text="{{successMessage}}"/>.} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/admin/components/gtd-workflow-editor/gtd-workflow-editor.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="69e8ccf868b119ae432f50b0fb65a636dcc0a574" datatype="html">
+        <source>{VAR_SELECT, select, workflowSchema {An error occurred while retrieving workflow schema.} sessionExpired {Your session has expired. Logging out...} resetNotImplemented {Reset form has not been implemented.} other {<x id="INTERPOLATION" equiv-text="{{errorMessage}}"/>} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/admin/components/gtd-workflow-editor/gtd-workflow-editor.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="58cc6a79dc0e71210ce7604bee865d5a589a37af" datatype="html">
+        <source> <x id="START_TAG_DIV_2" ctype="x-div" equiv-text="&lt;div&gt;"/> <x id="START_TAG_DIV_1" ctype="x-div" equiv-text="&lt;div&gt;"/> <x id="START_TAG_DIV" ctype="x-div" equiv-text="&lt;div&gt;"/> <x id="START_TAG_GTD-DYNAMIC-FORM" ctype="x-gtd-dynamic-form" equiv-text="&lt;gtd-dynamic-form&gt;"/><x id="CLOSE_TAG_GTD-DYNAMIC-FORM" ctype="x-gtd-dynamic-form" equiv-text="&lt;/gtd-dynamic-form&gt;"/> <x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/> <x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/> <x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/admin/components/gtd-workflow-editor/gtd-workflow-editor.component.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/admin/components/gtd-workflow-editor/gtd-workflow-editor.component.ts</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/admin/components/gtd-workflow-editor/gtd-workflow-editor.component.ts</context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/admin/components/gtd-workflow-editor/gtd-workflow-editor.component.ts</context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/admin/components/gtd-participants-editor/gtd-participants-editor.component.ts</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5b80549799c1e65da4af73ae60b98afee2cd4418" datatype="html">
+        <source> <x id="START_TAG_DIV_3" ctype="x-div" equiv-text="&lt;div&gt;"/> <x id="START_TAG_DIV_2" ctype="x-div" equiv-text="&lt;div&gt;"/> <x id="START_TAG_DIV_1" ctype="x-div" equiv-text="&lt;div&gt;"/> <x id="START_TAG_DIV" ctype="x-div" equiv-text="&lt;div&gt;"/>Workflow Name: <x id="INTERPOLATION" equiv-text="{{tabModels[0][&quot;name&quot;]}}"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/> <x id="START_TAG_DIV" ctype="x-div" equiv-text="&lt;div&gt;"/>Workflow Description: <x id="INTERPOLATION_1" equiv-text="{{tabModels[0][&quot;desc&quot;]}}"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/> <x id="START_TAG_GTD-DYNAMIC-FORM" ctype="x-gtd-dynamic-form" equiv-text="&lt;gtd-dynamic-form&gt;"/><x id="CLOSE_TAG_GTD-DYNAMIC-FORM" ctype="x-gtd-dynamic-form" equiv-text="&lt;/gtd-dynamic-form&gt;"/> <x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/> <x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/> <x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/admin/components/gtd-workflow-editor/gtd-workflow-editor.component.ts</context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8df08ce6a33ef7f8cd20fa19fdafb8de142a73f0" datatype="html">
+        <source>GTD Admin</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/admin/components/gtd-admin-home/gtd-admin-home.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1a7b3070ffef6640ba042dee382236f24d3dfb8d" datatype="html">
+        <source> <x id="START_TAG_DIV" ctype="x-div" equiv-text="&lt;div&gt;"/> <x id="START_TAG_GTD-WORKFLOW-EDITOR" ctype="x-gtd-workflow-editor" equiv-text="&lt;gtd-workflow-editor&gt;"/><x id="CLOSE_TAG_GTD-WORKFLOW-EDITOR" ctype="x-gtd-workflow-editor" equiv-text="&lt;/gtd-workflow-editor&gt;"/> <x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/admin/components/gtd-admin-home/gtd-admin-home.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7dd320ea1e64130a0d2dc0f1c7268588d4ccf92f" datatype="html">
+        <source> <x id="START_TAG_DIV" ctype="x-div" equiv-text="&lt;div&gt;"/> <x id="START_TAG_GTD-PARTICIPANTS-EDITOR" ctype="x-gtd-participants-editor" equiv-text="&lt;gtd-participants-editor&gt;"/><x id="CLOSE_TAG_GTD-PARTICIPANTS-EDITOR" ctype="x-gtd-participants-editor" equiv-text="&lt;/gtd-participants-editor&gt;"/> <x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/admin/components/gtd-admin-home/gtd-admin-home.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7b580fa6ff2ce1a87367ee784061b7641a0f4bdf" datatype="html">
+        <source> <x id="START_TAG_DIV" ctype="x-div" equiv-text="&lt;div&gt;"/> <x id="START_TAG_GTD-EVENTS" ctype="x-gtd-events" equiv-text="&lt;gtd-events&gt;"/><x id="CLOSE_TAG_GTD-EVENTS" ctype="x-gtd-events" equiv-text="&lt;/gtd-events&gt;"/> <x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/admin/components/gtd-admin-home/gtd-admin-home.component.ts</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e5fa1922c6b1841a2257993fbfa263d034afb447" datatype="html">
+        <source>Create Participants</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/admin/components/gtd-participants-editor/gtd-participants-editor.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="598d906ca4b73fe569b6b63320cbb5975433cb1d" datatype="html">
+        <source><x id="ICU" equiv-text="{successMessage, select, unavailable {...} other {...}}"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/admin/components/gtd-participants-editor/gtd-participants-editor.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b4f23c1b3e354d8c68cc09b76d1846909e24a98f" datatype="html">
+        <source>{VAR_SELECT, select, unavailable {Workflow created successfully. Workflow ID is unavailable.} other {Workflow created successfully. Workflow ID is <x id="INTERPOLATION" equiv-text="{{successMessage}}"/>.} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/admin/components/gtd-participants-editor/gtd-participants-editor.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="15d85c05ae96f445c0a9a724cdec6afab3598a50" datatype="html">
+        <source><x id="ICU" equiv-text="{errorMessage, select, workflowSchema {...} sessionExpired {...} resetNotImplemented {...} other {...}}"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/admin/components/gtd-participants-editor/gtd-participants-editor.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c06e541f8e611a96752feb10c26e88df51f62200" datatype="html">
+        <source>{VAR_SELECT, select, workflowSchema {An error occurred while retrieving workflow schema.} sessionExpired {Your session has expired. Logging out...} resetNotImplemented {Reset form has not been implemented.} other {<x id="INTERPOLATION" equiv-text="{{errorMessage}}"/>} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/admin/components/gtd-participants-editor/gtd-participants-editor.component.ts</context>
+          <context context-type="linenumber">22</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="68d719fbadfb4d7b0692a86eda4e02bcdcfe2555" datatype="html">
+        <source> <x id="START_TAG_DIV_3" ctype="x-div" equiv-text="&lt;div&gt;"/> <x id="START_TAG_DIV_2" ctype="x-div" equiv-text="&lt;div&gt;"/> <x id="START_TAG_DIV_1" ctype="x-div" equiv-text="&lt;div&gt;"/> <x id="START_TAG_DIV" ctype="x-div" equiv-text="&lt;div&gt;"/>Participants Export Country: <x id="INTERPOLATION" equiv-text="{{tabModels[0][&quot;exportCountry&quot;]}}"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/> <x id="START_TAG_DIV" ctype="x-div" equiv-text="&lt;div&gt;"/>Participants Import Country: <x id="INTERPOLATION_1" equiv-text="{{tabModels[0][&quot;importCountry&quot;]}}"/><x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/> <x id="START_TAG_GTD-DYNAMIC-FORM" ctype="x-gtd-dynamic-form" equiv-text="&lt;gtd-dynamic-form&gt;"/><x id="CLOSE_TAG_GTD-DYNAMIC-FORM" ctype="x-gtd-dynamic-form" equiv-text="&lt;/gtd-dynamic-form&gt;"/> <x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/> <x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/> <x id="CLOSE_TAG_DIV" ctype="x-div" equiv-text="&lt;/div&gt;"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/admin/components/gtd-participants-editor/gtd-participants-editor.component.ts</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="264e782de47b6f922b97280735067609948d3760" datatype="html">
+        <source>HS6 Code</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-cargo-dialog/cargo-dialog.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-event/container.event.component.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="68572de01b84c678be4bf8a27b990ecac2f41ce9" datatype="html">
+        <source>Code</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-hscode-table/hscode-table.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="eec715de352a6b114713b30b640d319fa78207a0" datatype="html">
+        <source>Description</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-hscode-table/hscode-table.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">104</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">177</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-user-row/user-row.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3a425b489ae6f01e103b3c6f4dac6fe795288bea" datatype="html">
+        <source>Search by Delegation ID</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-home/shipments-home.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-home/shipments-home.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="45818062c9e2587002f33f85b793eed17b2a5592" datatype="html">
+        <source>Clear Text</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-home/shipments-home.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7e892ba15f2c6c17e83510e273b3e10fc32ea016" datatype="html">
+        <source>Search</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-home/shipments-home.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b76f797ec175b3c035c7de197bc4c15b3be5afe1" datatype="html">
+        <source>Enter A <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>Delegation ID<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> Above To Find A Shipment</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments/shipments.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="07a15a64e3af1efa4806085f0e9b50fcff5535ab" datatype="html">
+        <source>Tracking ID</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-header/shipments-header.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3e76503c943c45390e8c9097ba79ae4188d62d44" datatype="html">
+        <source>Bill Of Lading</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-header/shipments-header.component.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="86c50fc2171298179283e3c9b6d79b57b821599b" datatype="html">
+        <source>not available</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-header/shipments-header.component.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-header/shipments-header.component.ts</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-transport-summary/transport-summary.component.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-transport-summary/transport-summary.component.ts</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-transport-summary/transport-summary.component.ts</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-transport-summary/transport-summary.component.ts</context>
+          <context context-type="linenumber">57</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-event/container.event.component.ts</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4d237e71ff327c21315097a052fa09ff2f1a448f" datatype="html">
+        <source>Verified Gross Mass</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-header/shipments-header.component.ts</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-event/container.event.component.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d26a6acf8c7649f4ccaf0be11bd49130e5feb0be" datatype="html">
+        <source>Container #</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-header/shipments-header.component.ts</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-event/container.event.component.ts</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="15575f7f39b575447449525448649e2effca78d3" datatype="html">
+        <source>Container Type</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-header/shipments-header.component.ts</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-event/container.event.component.ts</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="057e3c9d35f1ef785948fd765794a9a9e1e6afda" datatype="html">
+        <source><x id="START_LINK" ctype="x-a" equiv-text="&lt;a&gt;"/>HS6 Code<x id="CLOSE_LINK" ctype="x-a" equiv-text="&lt;/a&gt;"/> <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-header/shipments-header.component.ts</context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+        <note priority="1" from="description">The World Customs Organization’s Harmonized System (HS) code using 6 digits to define products.</note>
+      </trans-unit>
+      <trans-unit id="464d7b81ce5ee77a7738108091b17f8c2381557f" datatype="html">
+        <source>Dangerous Cargo</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-header/shipments-header.component.ts</context>
+          <context context-type="linenumber">52</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-transport-summary/container-transport-summary.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-transport-summary/container-transport-summary.component.ts</context>
+          <context context-type="linenumber">79</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1123a3f81d3d6c0ad5597c69e27d27ed826299a5" datatype="html">
+        <source>ETA:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-header/shipments-header.component.ts</context>
+          <context context-type="linenumber">88</context>
+        </context-group>
+        <note priority="1" from="description">Estimated time of arrival</note>
+      </trans-unit>
+      <trans-unit id="898f55f0e19f2cede6501b1bf71abb8566d7f21a" datatype="html">
+        <source>ATA:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-header/shipments-header.component.ts</context>
+          <context context-type="linenumber">93</context>
+        </context-group>
+        <note priority="1" from="description">Actual time of arrival</note>
+      </trans-unit>
+      <trans-unit id="9b4f665e39af22b7ac4456795800b38b3bf2c744" datatype="html">
+        <source>ETD:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-header/shipments-header.component.ts</context>
+          <context context-type="linenumber">98</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-header/shipments-header.component.ts</context>
+          <context context-type="linenumber">103</context>
+        </context-group>
+        <note priority="1" from="description">Estimated time of departure</note>
+      </trans-unit>
+      <trans-unit id="03b63d93a98bef6aa60bc426e69fcd16da646c8e" datatype="html">
+        <source>ATD:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-header/shipments-header.component.ts</context>
+          <context context-type="linenumber">108</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-header/shipments-header.component.ts</context>
+          <context context-type="linenumber">113</context>
+        </context-group>
+        <note priority="1" from="description">Actual time of departure</note>
+      </trans-unit>
+      <trans-unit id="a20835f355331a7398ce79b54cff3c57e96b3c75" datatype="html">
+        <source>Event</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-leg/shipments-leg.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3fe8ff07fb669db59f6b5c9cbf116bbbc2f665ff" datatype="html">
+        <source>Additional Information</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-leg/shipments-leg.component.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c7cbd3682fbeabe855b55dc3a2fcf04c417925c7" datatype="html">
+        <source>Originator</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-leg/shipments-leg.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-leg-event/shipments-leg-event.component.ts</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c4af11c910a83bfdab060d3bd824ddd5a793dd3b" datatype="html">
+        <source>No events</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-leg/shipments-leg.component.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5391a94e7bc153b97af695980a206f3998f679dd" datatype="html">
+        <source>Sea Transport</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-leg/shipments-leg.component.ts</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="54836019e64f8fb5fb6401e3a37a58ca23730641" datatype="html">
+        <source>Inland Transport</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-leg/shipments-leg.component.ts</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-leg/shipments-leg.component.ts</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8eaada0d4107269bc88fc70b9f8f13cf4354605f" datatype="html">
+        <source>Transport Type</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-leg/shipments-leg.component.ts</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="75747f5aa4987e8140cc0d04a18d9f509bab42a0" datatype="html">
+        <source><x id="ICU" equiv-text="{departureInfo.transportType, select, Barge {...} Rail {...} Truck {...} Vessel {...} other {...}}"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-leg/shipments-leg.component.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="262168dc039845f48b3c9ebd3344576424e67f84" datatype="html">
+        <source>{VAR_SELECT, select, Barge {Barge} Rail {Rail} Truck {Truck} Vessel {Vessel} other {<x id="INTERPOLATION" equiv-text="{{departureInfo.transportType}}"/>} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-leg/shipments-leg.component.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="99d4674ec6bc1e4db97de1e7fe0d296278143224" datatype="html">
+        <source>Transport ID</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-leg/shipments-leg.component.ts</context>
+          <context context-type="linenumber">66</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3ff8c044ab017410088b63fe0346a06f5d153ce5" datatype="html">
+        <source>Vessel ID</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-leg/shipments-leg.component.ts</context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aaf239dde4efca35f5cdde50dd68d9d252326f43" datatype="html">
+        <source>Imo No</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-leg/shipments-leg.component.ts</context>
+          <context context-type="linenumber">74</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c8f20932ab5b9f1e45a5567a887219a42728906f" datatype="html">
+        <source>Voyage No</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-leg/shipments-leg.component.ts</context>
+          <context context-type="linenumber">78</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="38bf93c6872d1ebb7b2fabab3f84d890f2c08dea" datatype="html">
+        <source>{VAR_SELECT, select, invalideventtype {Invalid Event Type} other {<x id="INTERPOLATION" equiv-text="{{eventName}}"/>} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-event-detail-dialog/event-detail-dialog.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-leg-event/shipments-leg-event.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-event-detail-dialog-new/event-detail-dialog-new.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3b8d753a75d251e451e168cb1bc6db0758a697df" datatype="html">
+        <source>Event Published: <x id="INTERPOLATION" equiv-text="{{ event.publishTime | date : format }}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-event-detail-dialog/event-detail-dialog.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="079be7828d05360b554af09865f732d507a693e9" datatype="html">
+        <source><x id="ICU" equiv-text="{key, select, id {...} type {...} trackingId {...} containerNumber {...} originatorId {...} originatorName {...} correlationId {...} eventTime {...} publishTime {...} documents {...} location {...} gpsCoordinates {...} exportCountry {...} importCountry {...} route {...} cargoType {...} other {...}}"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-event-detail-dialog/event-detail-dialog.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="dc8b9c6238ae62c8d74e98b0983625876b2cedd3" datatype="html">
+        <source>{VAR_SELECT, select, id {Event Transaction ID} type {Event Code} trackingId {Tracking ID} containerNumber {Container Number} originatorId {Originator ID} originatorName {Originator Name} correlationId {Correlation ID} eventTime {Time of Event} publishTime {Time Event Published} documents {Documents} location {Location} gpsCoordinates {GPS Coordinates} exportCountry {Export Country} importCountry {importCountry} route {Route} cargoType {Cargo Type} other {<x id="INTERPOLATION" equiv-text="{{key}}"/>} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-event-detail-dialog/event-detail-dialog.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9a175c6ae089c91ab0da54d77f3a1272a224f217" datatype="html">
+        <source><x id="ICU" equiv-text="{getDataTypeKey(data.type), select, truck {...} vessel {...} billofladingnumber {...} bookingnumber {...} containertypesize {...} dateandtime {...} dunsnumber {...} eventname {...} mrnnumber {...} phytonumber {...} rail {...} weight {...} bookingconfirmation {...} proofofready {...} certificateoforigin {...} inspectiontype {...} reason {...} newtransportowner {...} surveyresult {...} surveyreport {...} reasonforsurvey {...} htscode {...} scheduleb {...} reasonforsplit {...} temperature {...} agencyseal {...} carrierseal {...} customsseal {...} veterinaryseal {...} electronicseal {...} shippersownseal {...} partnerrole {...} containertype {...} other {...}}"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-event-detail-dialog/event-detail-dialog.component.ts</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-event-detail-dialog-new/event-detail-dialog-new.component.ts</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="904472f20da17e40aca648bee48edc9be1672749" datatype="html">
+        <source>{VAR_SELECT, select, truck {License Plate} vessel {Vessel} billofladingnumber {Bill of Lading Number} bookingnumber {Booking Number} containertypesize {Container Type Size} dateandtime {Date and Time} dunsnumber {Duns Number} eventname {Event Name} mrnnumber {MRN Number} phytonumber {Phyto Number} rail {Rail} weight {Weight} bookingconfirmation {Booking Confirmation} proofofready {Proof of Ready} certificateoforigin {Certificate of Origin} inspectiontype {Inspection Type} reason {Reason} newtransportowner {New Transport Owner} surveyresult {Survey result} surveyreport {Survey report} reasonforsurvey {Reason for survey} htscode {HTS Code} scheduleb {Schedule B} reasonforsplit {Reason for split} temperature {Temperature} agencyseal {Agency Seal} carrierseal {Carrier Seal} customsseal {Customs Seal} veterinaryseal {Veterinary Seal} electronicseal {Electronic Seal} shippersownseal {Shippers Own Seal} partnerrole {Partner Role} containertype {Container type} other {<x id="INTERPOLATION" equiv-text="{{data.type}}"/>} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-event-detail-dialog/event-detail-dialog.component.ts</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-event-detail-dialog-new/event-detail-dialog-new.component.ts</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="006281915e51df566a206217e08ecedea7ac7129" datatype="html">
+        <source><x id="START_SMALL_TEXT" ctype="x-small" equiv-text="&lt;small&gt;"/>Details<x id="CLOSE_SMALL_TEXT" ctype="x-small" equiv-text="&lt;/small&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-leg-event/shipments-leg-event.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d39b01685c50386e687366856b1fde354a68f4be" datatype="html">
+        <source><x id="ICU" equiv-text="{ removeSpaces(data.type.toLowerCase()), select, truck {...} vessel {...} billofladingnumber {...} bookingnumber {...} containertypesize {...} dateandtime {...} dunsnumber {...} eventname {...} mrnnumber {...} phytonumber {...} rail {...} weight {...} bookingconfirmation {...} proofofready {...} certificateoforigin {...} inspectiontype {...} reason {...} newtransportowner {...} surveyresult {...} surveyreport {...} reasonforsurvey {...} htscode {...} scheduleb {...} reasonforsplit {...} temperature {...} agencyseal {...} carrierseal {...} customsseal {...} veterinaryseal {...} electronicseal {...} shippersownseal {...} partnerrole {...} containertype {...} other {...}}"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-leg-event/shipments-leg-event.component.ts</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="fdd63f46b50b6ba71ff956bca0a59b9762293267" datatype="html">
+        <source>{VAR_SELECT, select, truck {License Plate} vessel {Vessel} billofladingnumber {Bill of Lading Number} bookingnumber {Booking Number} containertypesize {Container Type Size} dateandtime {Date and Time} dunsnumber {Duns Number} eventname {Event Name} mrnnumber {MRN Number} phytonumber {Phyto Number} rail {Rail} weight {Weight} bookingconfirmation {Booking Confirmation} proofofready {Proof of Ready} certificateoforigin {Certificate of Origin} inspectiontype {Inspection Type} reason {Reason} newtransportowner {New Transport Owner} surveyresult {Survey result} surveyreport {Survey report} reasonforsurvey {Reason for survey} htscode {HTS Code} scheduleb {Schedule B} reasonforsplit {Reason for split} temperature {Temperature} agencyseal {Agency Seal} carrierseal {Carrier Seal} customsseal {Customs Seal} veterinaryseal {Veterinary Seal} electronicseal {Electronic Seal} shippersownseal {Shippers Own Seal} partnerrole {Partner Role} containertype {Container type} other {Other} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-leg-event/shipments-leg-event.component.ts</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9f1bbfe8062cea93d456617a5bfb3ef1e4010036" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{ documents.length }}"/> Documents</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-leg-event/shipments-leg-event.component.ts</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3538a4b816e740396a8421d01bf5df6194f9c504" datatype="html">
+        <source>Location Type:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-leg-sidebar/shipments-leg-sidebar.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1c7e323679dbd928f1e88992a6ac3467ad01cc02" datatype="html">
+        <source> <x id="ICU" equiv-text="{getLocationType(legLocations[eventLocations.length - index - 1]), select, unlocode {...} gln {...} address {...} other {...}}"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-leg-sidebar/shipments-leg-sidebar.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2e0a98823cd4ae1c7b116a7fbcd235e7fe2812bf" datatype="html">
+        <source>{VAR_SELECT, select, unlocode {UN/Locode} gln {GLN} address {Address} other {<x id="INTERPOLATION" equiv-text="{{legLocations[eventLocations.length - index - 1].locationType}}"/>} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-leg-sidebar/shipments-leg-sidebar.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c890797e4f2e0f934bf09b53dc2e5203b2dd3100" datatype="html">
+        <source>Est. Arrival:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-leg-sidebar/shipments-leg-sidebar.component.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+        <note priority="1" from="description">Estimated arrival</note>
+      </trans-unit>
+      <trans-unit id="039ec2ef0d50cef988659be0fa4a8902a461167a" datatype="html">
+        <source>Arrived at:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-leg-sidebar/shipments-leg-sidebar.component.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f00239d47ce06ad1df30be0d33ae8c2cbd1c558d" datatype="html">
+        <source>Est. Departure:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-leg-sidebar/shipments-leg-sidebar.component.ts</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-leg-sidebar/shipments-leg-sidebar.component.ts</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+        <note priority="1" from="description">Estimated departure</note>
+      </trans-unit>
+      <trans-unit id="b16757ad1da618b8b515be3cdacc3ba229411eee" datatype="html">
+        <source>Departed at:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-leg-sidebar/shipments-leg-sidebar.component.ts</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-leg-sidebar/shipments-leg-sidebar.component.ts</context>
+          <context context-type="linenumber">53</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c8a2ad9c034470fc226dc8967212130ec17ea443" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{ totalShipments }}"/> Shipments found</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-manager/shipments-manager.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a18ec9be4c9e3826c15cacc3bb5a13267277f50c" datatype="html">
+        <source>Select a shipment below to see its container activity.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-manager/shipments-manager.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="dd41a701347b78213c22ee7894c095c2d94c9e18" datatype="html">
+        <source>FILTER BY</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-manager/shipments-manager.component.ts</context>
+          <context context-type="linenumber">23</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-event/container.event.component.ts</context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5bcee2ae3b89e38e58b1244b1088594795dc96da" datatype="html">
+        <source>Clear all Filters</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-manager/shipments-manager.component.ts</context>
+          <context context-type="linenumber">93</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="bfd7857895b32922bbb68379c25e4d56451fbcef" datatype="html">
+        <source>Shipments</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-manager/shipments-manager.component.ts</context>
+          <context context-type="linenumber">115</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-order-list/gtd-order-list.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="14eeb41fb2c58e2003de70beedd8da5766a507e3" datatype="html">
+        <source>Shipment IDs</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-manager/shipments-manager.component.ts</context>
+          <context context-type="linenumber">119</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a6be071f378803cb2e4c11fd010f9a29e9578db8" datatype="html">
+        <source>Shipment Reference</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-manager/shipments-manager.component.ts</context>
+          <context context-type="linenumber">124</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-event/container.event.component.ts</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="623334a63c4d68360a202f5e72033d564981d67d" datatype="html">
+        <source>Container Reference</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-manager/shipments-manager.component.ts</context>
+          <context context-type="linenumber">129</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3762def1b3dcae45fe8be5b2a23511c3ee1b599e" datatype="html">
+        <source>Ports of Loading</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-manager/shipments-manager.component.ts</context>
+          <context context-type="linenumber">134</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="91ed649b2feacfb0c24ea9606f50bf2ae3dfa2c7" datatype="html">
+        <source>Ports of Discharge</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-manager/shipments-manager.component.ts</context>
+          <context context-type="linenumber">139</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-transport-summary/transport-summary.component.ts</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f81082782c11ce81eac45e10b94f2c66143addf5" datatype="html">
+        <source>Bill of Lading #</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-manager/shipments-manager.component.ts</context>
+          <context context-type="linenumber">144</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f5ed61e3dbb3fe755cecd1404cdc7a2ba4fc4b31" datatype="html">
+        <source>HS Codes</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-manager/shipments-manager.component.ts</context>
+          <context context-type="linenumber">149</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6206a0f04a13a3f6ad713366d4480eb14bc15386" datatype="html">
+        <source>No records found</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-shipments-manager/shipments-manager.component.ts</context>
+          <context context-type="linenumber">117</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-order-list/gtd-order-list.component.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="07ea9be7fa8d3b7fe1333021ee4f9248ec75c4c7" datatype="html">
+        <source> <x id="ICU" equiv-text="{transportSummary[&apos;containerTransports&apos;]?.length || &apos;0&apos;, select, none {...} other {...}}"/> containers found</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-transport-summary/transport-summary.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f0b7929f02a2c3b5059d8690eef989baf120b24a" datatype="html">
+        <source>{VAR_SELECT, select, none {} other {<x id="INTERPOLATION" equiv-text="{{transportSummary[&apos;containerTransports&apos;].length}}"/>} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-transport-summary/transport-summary.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1fed6216cde0d31740fa8cb0fbaa145986c0b0f1" datatype="html">
+        <source>Select a container below to see its events and additional information</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-transport-summary/transport-summary.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="bcb5369c9eace16cabf560a15fa222af0462aaee" datatype="html">
+        <source>Return to Shipment List</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-transport-summary/transport-summary.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-event/container.event.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f014023cff5bd9749720b9077b65afcf38fa6920" datatype="html">
+        <source>Bills of Lading</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-transport-summary/transport-summary.component.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e3fe4ea2736dda655a76ef82d075d4a4ccb8d9db" datatype="html">
+        <source>Shipment Reference #s</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-transport-summary/transport-summary.component.ts</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="458999fb91ac68bc40c7b7f5ba3538aee989fece" datatype="html">
+        <source>Ports of Entry</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-transport-summary/transport-summary.component.ts</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8ebf18e573082ad49ce0ce204fbcbdd531b35fa8" datatype="html">
+        <source>CTID: <x id="ICU" equiv-text="{ container?.containerTransportId || &apos;none&apos;, select, none {...} other {...}}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-transport-summary/container-transport-summary.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-transport-summary/container-transport-summary.component.ts</context>
+          <context context-type="linenumber">80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3dc06b681673cadcf3198a13506e3572b52d213d" datatype="html">
+        <source>{VAR_SELECT, select, none {Container transport id not available} other {<x id="INTERPOLATION" equiv-text="{{container.containerTransportId}}"/>} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-transport-summary/container-transport-summary.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-transport-summary/container-transport-summary.component.ts</context>
+          <context context-type="linenumber">80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="82aab4327b8545446111870c1a16a2a67d603ea3" datatype="html">
+        <source> <x id="ICU" equiv-text="{ container.containerProgress.headerLocations[0]?.value || &apos;none&apos;, select, none {...} other {...}}"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-transport-summary/container-transport-summary.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="02077cd7ff69ab5c86c79775a3c4e1d2f3b69683" datatype="html">
+        <source>{VAR_SELECT, select, none {} other {<x id="INTERPOLATION" equiv-text="{{container.containerProgress.headerLocations[0].value}}"/>} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-transport-summary/container-transport-summary.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e8e91f6e4b05c4e6ee19ee29677f44d644bdd66b" datatype="html">
+        <source> <x id="ICU" equiv-text="{ container.containerProgress.headerLocations[container.containerProgress.currentLocation]?.value || &apos;none&apos;, select, none {...} other {...}}"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-transport-summary/container-transport-summary.component.ts</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a09c35a302aa32e4ad86e930ce94ca0f4097186a" datatype="html">
+        <source>{VAR_SELECT, select, none {Progress not available} other {<x id="INTERPOLATION" equiv-text="{{container.containerProgress.headerLocations[container.containerProgress.currentLocation].value}}"/>} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-transport-summary/container-transport-summary.component.ts</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="537f3b775627aa3d3ce5aa90435d7a0e5ce1373e" datatype="html">
+        <source> <x id="ICU" equiv-text="{ container.containerProgress?.headerLocations[finalLocation]?.value || &apos;none&apos;, select, none {...} other {...}}"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-transport-summary/container-transport-summary.component.ts</context>
+          <context context-type="linenumber">62</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c747f1875fc83d3f400e6803df3f9a583c2ead3d" datatype="html">
+        <source>{VAR_SELECT, select, none {} other {<x id="INTERPOLATION" equiv-text="{{container.containerProgress.headerLocations[finalLocation].value}}"/>} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-transport-summary/container-transport-summary.component.ts</context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e8de6cd3e807d373f8ad1893f64d270c43b1c72c" datatype="html">
+        <source> <x id="ICU" equiv-text="{ container.containerProgress.headerLocations[finalLocation]?.value || &apos;none&apos;, select, none {...} other {...}}"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-transport-summary/container-transport-summary.component.ts</context>
+          <context context-type="linenumber">96</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="acdfcff5fdf9a0b4a246370d43580efe0b405a84" datatype="html">
+        <source>{VAR_SELECT, select, none {} other {<x id="INTERPOLATION" equiv-text="{{container.containerProgress.headerLocations[finalLocation].value}}"/>} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-transport-summary/container-transport-summary.component.ts</context>
+          <context context-type="linenumber">97</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e5d10e9b63381fdae64683f2647c853b74886c05" datatype="html">
+        <source>Return to Container List</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-event/container.event.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a42582025c76a038785c97b08613d75695a2a2eb" datatype="html">
+        <source>Events and additional information</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-event/container.event.component.ts</context>
+          <context context-type="linenumber">19</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ca3c66aed1079857fe710cef90de76297f33b0c0" datatype="html">
+        <source>Enter a HS Code, or filter results to view specific events.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-event/container.event.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="0909a9a3eeabdf1d5df00a5474e45a84488ed6fa" datatype="html">
+        <source>{VAR_SELECT, select, none {} other {<x id="INTERPOLATION" equiv-text="{{presentContainer.physicalId}}"/>} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-event/container.event.component.ts</context>
+          <context context-type="linenumber">27</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="bf1a90842f5f99f5308513f110c68430d1c6277d" datatype="html">
+        <source>{VAR_SELECT, select, none {} other {<x id="INTERPOLATION" equiv-text="{{presentContainer.verifiedGrossMass}}"/>} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-event/container.event.component.ts</context>
+          <context context-type="linenumber">31</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="879e0b799bc8948ef79cfaaae1ba26955eed08d2" datatype="html">
+        <source>{VAR_SELECT, select, none {} other {<x id="INTERPOLATION" equiv-text="{{containerType.code}}"/>} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-event/container.event.component.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="06d2b1e9afcb45b0414f0a5f7ca182c9c902555b" datatype="html">
+        <source>{VAR_SELECT, select, none {} other {<x id="INTERPOLATION" equiv-text="{{event.shipmentRef}}"/>} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-event/container.event.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a1b1269b2d456a8b4214a0853e10a2c955ae8158" datatype="html">
+        <source>Select HS Code</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-event/container.event.component.ts</context>
+          <context context-type="linenumber">48</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="202cecf615f637dde2b3701d12fde84a728184f2" datatype="html">
+        <source>All Events</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-event/container.event.component.ts</context>
+          <context context-type="linenumber">63</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-all-container-events-filter/all-container-events-filter.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8de31a476c53a5061eb69a854af11e28f27936cf" datatype="html">
+        <source> Admin </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-event/container.event.component.ts</context>
+          <context context-type="linenumber">68</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ed31c09fd77c36238c13d83635f3fe5294c733d2" datatype="html">
+        <source>Location</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-event/container.event.component.ts</context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9d51b3c90afda70700229d1b8a55371c13cb3bce" datatype="html">
+        <source>Documents</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-container-event/container.event.component.ts</context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-document-container-events-filter/document-container-events-filter.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-order-detail/gtd-order-detail.component.ts</context>
+          <context context-type="linenumber">46</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ff9ad589bbf2b1b32971ca5c809dad3e13336926" datatype="html">
+        <source> <x id="INTERPOLATION" equiv-text="{{totalNumber}}"/> Events available </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-all-container-events-filter/all-container-events-filter.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c740d5842422739401041123e42192fecc161894" datatype="html">
+        <source> <x id="INTERPOLATION" equiv-text="{{totalNumber}}"/> Document events available </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-document-container-events-filter/document-container-events-filter.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e9de0072a3758579385a3493c958786022fd703e" datatype="html">
+        <source>Event Published: <x id="INTERPOLATION" equiv-text="{{ event.eventSubmissionTime | date: &apos;MMMM d, y, h:mm:ss a OOOO&apos; }}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-event-detail-dialog-new/event-detail-dialog-new.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a508b104c8a420a77637ee93ba61af73593b74f2" datatype="html">
+        <source><x id="ICU" equiv-text="{key, select, id {...} eventSubmissionTime {...} importCountry {...} eventName {...} containerTransportId {...} eventSubmissionGpsLocation {...} physicalId {...} transportationPhase {...} eventTransactionId {...} shipmentRef {...} containerTransportRef {...} firstPortOfEntryCountry {...} cargoRemainingOnboardCountries {...} transitImportCountries {...} transitExportCountries {...} transshipmentPorts {...} entryPort {...} exitPort {...} harmonizedCodes {...} type {...} trackingId {...} containerNumber {...} originatorId {...} originatorName {...} correlationId {...} eventTime {...} publishTime {...} documents {...} location {...} gpsCoordinates {...} exportCountry {...} route {...} cargoType {...} other {...}}"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-event-detail-dialog-new/event-detail-dialog-new.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="dfbc4c7a97ca680f7251259b466b47bff1eea924" datatype="html">
+        <source>{VAR_SELECT, select, id {Event Transaction ID} eventSubmissionTime {Event Submission Time} importCountry {importCountry} eventName {Event Name} containerTransportId {Container Transport ID} eventSubmissionGpsLocation {Event Submission GPS Location} physicalId {Physical ID} transportationPhase {Transportation Phase} eventTransactionId {Event Transaction ID} shipmentRef {Shipment Reference Number} containerTransportRef {Container Transport Reference} firstPortOfEntryCountry {First Port of Entry Country} cargoRemainingOnboardCountries {Cargo Remaining Onboard Countries} transitImportCountries {Transit Import Countries} transitExportCountries {Transit Export Countries} transshipmentPorts {Trans Shipment Port} entryPort {Entry Port} exitPort {Exit Port} harmonizedCodes {HS Code} type {Event Code} trackingId {Tracking ID} containerNumber {Container Number} originatorId {Originator ID} originatorName {Originator Name} correlationId {Correlation ID} eventTime {Time of Event} publishTime {Time Event Published} documents {Documents} location {Location} gpsCoordinates {GPS Coordinates} exportCountry {Export Country} route {Route} cargoType {Cargo Type} other {<x id="INTERPOLATION" equiv-text="{{key}}"/>} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-event-detail-dialog-new/event-detail-dialog-new.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1cbe6003186ad9cf8f3e1eb966d9d985ad6e0dd5" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{ containerEventData[&apos;eventName&apos;] }}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-event/event.component.ts</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4eadaf653c4d76e363df338a7a7c3988297b94b5" datatype="html">
+        <source>Posted: <x id="INTERPOLATION" equiv-text="{{ containerEventData[&apos;eventSubmissionTime&apos;] | date:&quot;MM/dd/yyyy &apos;at&apos; h:mma&quot; }}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-event/event.component.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1aa91ebebd72773e80b2a1c039d7c6b3bcb07ac3" datatype="html">
+        <source>See additional details</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-event/event.component.ts</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e850ec50abf3e82654ebb55732a78c03adb5341a" datatype="html">
+        <source>{VAR_SELECT, select, none {} other {<x id="INTERPOLATION" equiv-text="{{additionalDetail.value}}"/>} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-event/event.component.ts</context>
+          <context context-type="linenumber">38</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="beda581afaf57bc4820ab2a1ea4b8cb2b46f4bd2" datatype="html">
+        <source>{VAR_SELECT, select, none {} other {<x id="INTERPOLATION" equiv-text="{{additionalDetail.type}}"/>} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-event/event.component.ts</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="189a383d629dcaa9347f8a69af2b7fbbfe83a9bd" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="{{ containerEventData[&apos;originatorName&apos;] }}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-event/event.component.ts</context>
+          <context context-type="linenumber">41</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6e8eb41c1d2ef8d5459eb41f1a4ac7b20c5ad23e" datatype="html">
+        <source>Admin Events</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-admin-container-events-filter/admin-container-events-filter.component.ts</context>
+          <context context-type="linenumber">10</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b6fe02f5ad5501ce090b9fe7fe5d6c3b82980458" datatype="html">
+        <source> <x id="INTERPOLATION" equiv-text="{{totalNumber}}"/> Admin events available </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/evd/components/gtd-admin-container-events-filter/admin-container-events-filter.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="50300dd7a27d86242ef96d11a2ae614c0c7fc0c9" datatype="html">
+        <source>Awaiting Document Upload</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-document/gtd-document.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="22f0ee9c3b1ffb8cfdae64683fd8dfdf9afca462" datatype="html">
+        <source><x id="ICU" equiv-text="{ (signingRoles | async)?.length, plural, =1 {...} other {...}}"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-document/gtd-document.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e5d3f4ae10b46a85d05ccf35585ae6df7b7c3b2a" datatype="html">
+        <source>{VAR_PLURAL, plural, =1 {<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>1<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> Signature Required:} other {<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/><x id="INTERPOLATION" equiv-text="{{ (signingRoles | async)?.length }}"/><x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> Signatures Required:} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-document/gtd-document.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="fe37ba22fecfc0728fffc2f54ebf03e227b42d9b" datatype="html">
+        <source>Upload Document</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-document/gtd-document.component.ts</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9e3e3ebc48304dabebfb1b52f9b21c2096ad28c1" datatype="html">
+        <source>Document ID</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-document/gtd-document.component.ts</context>
+          <context context-type="linenumber">42</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-document/gtd-document.component.ts</context>
+          <context context-type="linenumber">147</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="34717fa5964f8d3fa771c75e1b76ad92e9d26c17" datatype="html">
+        <source>Enter Document ID</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-document/gtd-document.component.ts</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="238b370d7d20238a824ff6a18d1b4d60d87149c8" datatype="html">
+        <source>Document ID is required</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-document/gtd-document.component.ts</context>
+          <context context-type="linenumber">45</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="132314f59ecfeca582c8e0469cc21c4c05c82504" datatype="html">
+        <source>Drag &amp; Drop</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-document/gtd-document.component.ts</context>
+          <context context-type="linenumber">51</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="73f8489a3ae4d805787b8350d3d91e03e830115b" datatype="html">
+        <source>Choose File</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-document/gtd-document.component.ts</context>
+          <context context-type="linenumber">55</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a747579bc3e045869453126b9962a329f960d190" datatype="html">
+        <source>Replace File</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-document/gtd-document.component.ts</context>
+          <context context-type="linenumber">60</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="53d476d2ac33430a66d9265c6b9a2ec42adabb98" datatype="html">
+        <source>Please wait... <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-document/gtd-document.component.ts</context>
+          <context context-type="linenumber">64</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-document/gtd-document.component.ts</context>
+          <context context-type="linenumber">99</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="71c77bb8cecdf11ec3eead24dd1ba506573fa9cd" datatype="html">
+        <source>Submit</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-document/gtd-document.component.ts</context>
+          <context context-type="linenumber">70</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="0c7322c62865c89bab6f52c669234699f0ee11ef" datatype="html">
+        <source>This document can be issued by:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-document/gtd-document.component.ts</context>
+          <context context-type="linenumber">77</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5a061ec4ef9f50400df5c2ac28778d8ddd08e3d3" datatype="html">
+        <source>Awaiting Your Signature:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-document/gtd-document.component.ts</context>
+          <context context-type="linenumber">97</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f14c5ea7b6f650a66136972a69328bfd19cd46db" datatype="html">
+        <source>Sign Document</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-document/gtd-document.component.ts</context>
+          <context context-type="linenumber">98</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d43cfdb59b248f5d17d41c0d2bed563904d51db8" datatype="html">
+        <source>Document Signed</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-document/gtd-document.component.ts</context>
+          <context context-type="linenumber">106</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5240ad6126ad264b2671ed7ea4c3b2f1121dc145" datatype="html">
+        <source>Signed: <x id="INTERPOLATION" equiv-text="{{(document | async)?.getSignature((currentUser | async)?.orgName)?.signTime | date:&quot;medium&quot;}}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-document/gtd-document.component.ts</context>
+          <context context-type="linenumber">109</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="536fdcb5469c70a57e780517c3f7a29d524aa740" datatype="html">
+        <source>Document Uploaded By:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-document/gtd-document.component.ts</context>
+          <context context-type="linenumber">114</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ea0537a09c354212295c72c77df3074135d61dbb" datatype="html">
+        <source>Timestamp:</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-document/gtd-document.component.ts</context>
+          <context context-type="linenumber">119</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="aad257160df041deb52b700d31e379c4f01cdd7e" datatype="html">
+        <source><x id="ICU" equiv-text="{(signingRoles | async)?.length, plural, =1 {...} other {...}}"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-document/gtd-document.component.ts</context>
+          <context context-type="linenumber">126</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1b3784c2a6be46e7cbb6272b42d7c2fbba4afcfa" datatype="html">
+        <source>{VAR_PLURAL, plural, =1 {<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/>1<x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> Signature Required:} other {<x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/><x id="INTERPOLATION" equiv-text="{{ (signingRoles | async)?.length }}"/><x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/> Signatures Required:} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-document/gtd-document.component.ts</context>
+          <context context-type="linenumber">126</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="cdf2322f61bfe400f77645df90a630be3ad54ae1" datatype="html">
+        <source>Waiting</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-document/gtd-document.component.ts</context>
+          <context context-type="linenumber">136</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3f3ca6b3bc251065e00ab5913124a292596ccf4c" datatype="html">
+        <source>Loading... <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-document/gtd-document.component.ts</context>
+          <context context-type="linenumber">167</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7b5f9f143b411cf1888e91b8739213aff96874c5" datatype="html">
+        <source>Document Verified Authentic</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-document/gtd-document.component.ts</context>
+          <context context-type="linenumber">169</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-document/gtd-document.component.ts</context>
+          <context context-type="linenumber">173</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="178948f7d59612c5f475b371cc8850e6442ae846" datatype="html">
+        <source>Document has been modified and cannot be verified</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-document/gtd-document.component.ts</context>
+          <context context-type="linenumber">184</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="82b95ef2fc6dd375032968f56506899b471b14ec" datatype="html">
+        <source>New Shipment</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-new-order/gtd-new-order.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d10ce9e95914c667d1a0dafc7a8fc6a59e9279ef" datatype="html">
+        <source>Search For Workflow</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-new-order/gtd-new-order.component.ts</context>
+          <context context-type="linenumber">16</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e8a478b36af60ad9c78cc67d8a41a679fbbcf8f6" datatype="html">
+        <source>Export Country</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-new-order/gtd-new-order.component.ts</context>
+          <context context-type="linenumber">20</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9855663c85f55ab030a677eb0145496af676300e" datatype="html">
+        <source>Enter Export Country</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-new-order/gtd-new-order.component.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="0aa836793acb7d1a0e8fa0544348474f39fd1c45" datatype="html">
+        <source>Import Country</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-new-order/gtd-new-order.component.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="42cc9f001f409ceeeb85657850bdc60c6325ead2" datatype="html">
+        <source>Enter Import Country</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-new-order/gtd-new-order.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="454e16f67a4d26867303bbf80824ad45042a25e7" datatype="html">
+        <source>Harmonized System Code</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-new-order/gtd-new-order.component.ts</context>
+          <context context-type="linenumber">36</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b7039ecc39cd7a2df617eadbae39bfdf60c8edb5" datatype="html">
+        <source>Enter Harmonized System Code</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-new-order/gtd-new-order.component.ts</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5f30e6d2a11eafb8df8d36eb743eda42ff345447" datatype="html">
+        <source>Matching Workflows<x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-new-order/gtd-new-order.component.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7e07101948d40f4042c3c1f433324adfaaf8adb9" datatype="html">
+        <source>No participants found</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-new-order/gtd-new-order.component.ts</context>
+          <context context-type="linenumber">56</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9a1dd38ad6d5288ee716a6dba56dcc1b3c20ce96" datatype="html">
+        <source>Shipment Details</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-new-order/gtd-new-order.component.ts</context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-order-detail/gtd-order-detail.component.ts</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f9168e5798b25b5b3c56afc305eff1d01179ee1d" datatype="html">
+        <source>Workflow</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-new-order/gtd-new-order.component.ts</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="edb93cfd126c37bd12992b8988f4354cda3d0a23" datatype="html">
+        <source>Customer *</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-new-order/gtd-new-order.component.ts</context>
+          <context context-type="linenumber">80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ed94e1ca098536088519cece3156a641a3ae2c68" datatype="html">
+        <source>Enter Customer</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-new-order/gtd-new-order.component.ts</context>
+          <context context-type="linenumber">81</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="dbcf7bd33515d23678bf93b8ed95254105b0eddf" datatype="html">
+        <source>Customer is required</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-new-order/gtd-new-order.component.ts</context>
+          <context context-type="linenumber">83</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="0354335ea9f32f8824b175460989a8851d474561" datatype="html">
+        <source>Reference Number *</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-new-order/gtd-new-order.component.ts</context>
+          <context context-type="linenumber">88</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="0a1b08fa69ecd70e6fd60f1a9cb29f8cc9a2c6e2" datatype="html">
+        <source>Enter Reference Number</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-new-order/gtd-new-order.component.ts</context>
+          <context context-type="linenumber">89</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b1b822b267fbc53a95ec32fd9e75017fc058e02d" datatype="html">
+        <source>Export Reference number is required</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-new-order/gtd-new-order.component.ts</context>
+          <context context-type="linenumber">91</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="c93ed33bee8f4765696722e8a5de0d52a66fce96" datatype="html">
+        <source>Tracking I.D. *</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-new-order/gtd-new-order.component.ts</context>
+          <context context-type="linenumber">96</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="2a90cc1a9113d58cef8856fcc1374dedda5f2364" datatype="html">
+        <source>Enter Tracking I.D.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-new-order/gtd-new-order.component.ts</context>
+          <context context-type="linenumber">97</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d26e216fc013c3f58fa1b56ba49411edcd07a062" datatype="html">
+        <source>Tracking I.D. is required</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-new-order/gtd-new-order.component.ts</context>
+          <context context-type="linenumber">99</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="0a367d829c1b3d19e21792407ea778dd07ea3bd5" datatype="html">
+        <source>Container Number *</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-new-order/gtd-new-order.component.ts</context>
+          <context context-type="linenumber">104</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="316919e87bb45e0e17618177a55e60f596d355e3" datatype="html">
+        <source>Enter Container Number</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-new-order/gtd-new-order.component.ts</context>
+          <context context-type="linenumber">105</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f00a6761f636a9b6c59a12016763b3b81f664638" datatype="html">
+        <source>Container Number is required</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-new-order/gtd-new-order.component.ts</context>
+          <context context-type="linenumber">107</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d7b35c384aecd25a516200d6921836374613dfe7" datatype="html">
+        <source>Cancel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-new-order/gtd-new-order.component.ts</context>
+          <context context-type="linenumber">113</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-order-detail/gtd-order-detail.component.ts</context>
+          <context context-type="linenumber">88</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-user-row/user-row.component.ts</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-user-row/user-row.component.ts</context>
+          <context context-type="linenumber">44</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="70a67e04629f6d412db0a12d51820b480788d795" datatype="html">
+        <source>Create</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-new-order/gtd-new-order.component.ts</context>
+          <context context-type="linenumber">114</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4a402092adac9ad5ac9120f7c27fa23c0c8e8c43" datatype="html">
+        <source>Exporter</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-order-detail/gtd-order-detail.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="925ad74511a75fc2b0b7b0e1662dcb33f0b5184d" datatype="html">
+        <source>Order #</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-order-detail/gtd-order-detail.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="dff8d13a770e6a5d4fa1923462c6a7b974409592" datatype="html">
+        <source>Customer</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-order-detail/gtd-order-detail.component.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="7198e68efeda7885ec6ca60a4e5776cd4553e75e" datatype="html">
+        <source>Forwarder</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-order-detail/gtd-order-detail.component.ts</context>
+          <context context-type="linenumber">25</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="70079462e25df72cd7f90f94863fc13072692efb" datatype="html">
+        <source>HS Code</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-order-detail/gtd-order-detail.component.ts</context>
+          <context context-type="linenumber">29</context>
+        </context-group>
+        <note priority="1" from="description">Harmonized System Code used to classify traded products.</note>
+      </trans-unit>
+      <trans-unit id="8d641e354299c3a7e400d5fcb903dfb4413e898f" datatype="html">
+        <source><x id="START_TAG_SPAN" ctype="x-span" equiv-text="&lt;span&gt;"/>Order Authorized <x id="CLOSE_TAG_SPAN" ctype="x-span" equiv-text="&lt;/span&gt;"/><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-order-detail/gtd-order-detail.component.ts</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f28feb958b8fa48f9d92863a62871a0847dfb766" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Authorize</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-order-detail/gtd-order-detail.component.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="5c080504868885dc36facbb129eda900f8d7fd6c" datatype="html">
+        <source>Shipment Summary</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-order-detail/gtd-order-detail.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4368f35ca9cb896d0b71f0a6bcc02f5097b92831" datatype="html">
+        <source>Order #: <x id="INTERPOLATION" equiv-text="{{ (order | async)?.contract?.ExportReferenceNumber }}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-order-detail/gtd-order-detail.component.ts</context>
+          <context context-type="linenumber">69</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="bf793f672b8b7c3ef57ae26f2830ea7f065466db" datatype="html">
+        <source> <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> <x id="INTERPOLATION" equiv-text="{{(order | async)?.getUnissuedDocs().length}}"/> document(s) Not Issued </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-order-detail/gtd-order-detail.component.ts</context>
+          <context context-type="linenumber">72</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="490f38aee87e72f3b042d49a547919cd1e0c7cb2" datatype="html">
+        <source> <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> <x id="INTERPOLATION" equiv-text="{{(order | async)?.getUnverifiedDocs().length}}"/> document(s) Not Verified </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-order-detail/gtd-order-detail.component.ts</context>
+          <context context-type="linenumber">76</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="22a99caf3b2499681bfaceb237841774128eead4" datatype="html">
+        <source> <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> <x id="INTERPOLATION" equiv-text="{{(order | async)?.numMissingSignatures()}}"/> missing Signatures </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-order-detail/gtd-order-detail.component.ts</context>
+          <context context-type="linenumber">80</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8caa24d67d4894e69962e1a3bcb0976dcb43a46d" datatype="html">
+        <source>Are you sure you want to authorize this order?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-order-detail/gtd-order-detail.component.ts</context>
+          <context context-type="linenumber">84</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d1fd4b2a5a9cd8647ea208dbacdf5f4358a10c80" datatype="html">
+        <source>Authorize Order</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-order-detail/gtd-order-detail.component.ts</context>
+          <context context-type="linenumber">90</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="74903d777fc32fd9f38893ea6a4d13bd8978a79c" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/>Create New Shipment</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-order-list/gtd-order-list.component.ts</context>
+          <context context-type="linenumber">11</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="d56b80c33505dc1bf58837775d928233ed2d1f60" datatype="html">
+        <source>Search Table</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-order-list/gtd-order-list.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="b3decf7592758dd1696c0266f0b1fc56a52c26ea" datatype="html">
+        <source>{VAR_SELECT, select, Reference_Number {Reference Number} Tracking_I.D. {Tracking I.D.} Customer {Customer} other {} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-order-list/gtd-order-list.component.ts</context>
+          <context context-type="linenumber">28</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="81b97b8ea996ad1e4f9fca8415021850214884b1" datatype="html">
+        <source>Status</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-order-list/gtd-order-list.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="bf311656054ee227991abf064d5b01663b040bd3" datatype="html">
+        <source><x id="ICU" equiv-text="{ row[col.field], select, inProgress {...} completed {...} other {...}}"/> </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-order-list/gtd-order-list.component.ts</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="10c8beb40a0dc486b0f7ced4321a60d582a587ad" datatype="html">
+        <source>{VAR_SELECT, select, inProgress {In Progress} completed {Completed} other {} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/plt/components/gtd-order-list/gtd-order-list.component.ts</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8baf5dd41b33fcca430ac9e9c33e108d0341b5c0" datatype="html">
+        <source> <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> <x id="INTERPOLATION" equiv-text="{{ notification }}"/> <x id="ICU" equiv-text="{ notificationKey, select, added {...} updated {...} deleted {...} other {...}}"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="62463921fb2e950ddfd283362bf70a4fc4fdd60a" datatype="html">
+        <source>{VAR_SELECT, select, added {has been added as a new user} updated {has been updated.} deleted {has been deleted.} other {<x id="INTERPOLATION" equiv-text="{{notificationKey}}"/>} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">9</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6fc752ca42b57842af95b1b50e073515f6ad7656" datatype="html">
+        <source>Role Management</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="0182679a089f4e4ca1d4663df7684c8a53199537" datatype="html">
+        <source>Add New User</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">18</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="eecb043084b25dc4a68a6d85b27cbc7c0b411025" datatype="html">
+        <source>This Account</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">26</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4fcb6dbd1b656de4f606e061af0ed606d3fdc547" datatype="html">
+        <source>User Name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">71</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">98</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-user-row/user-row.component.ts</context>
+          <context context-type="linenumber">8</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="13d02829fa89900c255119f3fc51125f397f78a6" datatype="html">
+        <source>Org Name</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">50</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">74</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">101</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-user-row/user-row.component.ts</context>
+          <context context-type="linenumber">17</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="9610487cbeb5796d34d8601b5ac0c0a65f9e1d19" datatype="html">
+        <source>Roles</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">39</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">54</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">80</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">107</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">181</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-user-row/user-row.component.ts</context>
+          <context context-type="linenumber">24</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="ca2283fc765b9f44b69f0175d685dc2443da6011" datatype="html">
+        <source>Administrator</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">47</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">185</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-user-row/user-row.component.ts</context>
+          <context context-type="linenumber">13</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="a64b79bcb6fda1750d7263f3a4f7a188bff3bd85" datatype="html">
+        <source>Managed Users</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">67</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e32ae45a6ed92e8718b3b200b3c53082825686ce" datatype="html">
+        <source>Managed Systems of Engagement</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">94</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="80ec95104045ae1c0a316e9461ee70220f24c7c2" datatype="html">
+        <source>Added new SOE user</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">124</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4c7362210997b41d70f0e1cca07a9186e122ec3e" datatype="html">
+        <source>Below are the username, clientid, and secret for a non-human system user. Copy these to the clipboard and save them.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">133</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="58acfbab2b9a8b6f9a5e47cd06f4c9bff1947187" datatype="html">
+        <source>You should never create this user if you can configure an email address for a system in the identity provider of your organization.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">134</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="21b2b21d9da979e28be6f1a2e6c4c1bb346dd681" datatype="html">
+        <source>If you plan on using this user, please configure it on the machine which will interact with GTD services. This userid/client_id/secret must not be used for any human user.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">135</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8db21dd09fb6d4fd60b577c1e698b6da9fb0cd91" datatype="html">
+        <source>The secret is only shown once. If the secret needs to be changed for the system user, please delete this system user, recreate another one, and configure it in the system that will interact with GTD services.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">136</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="68e6d27d9117cb8f572f5afadaaa31d6cca683d1" datatype="html">
+        <source> <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Copy username, secret and client_id </source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">140</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1979da7460819153e11d2078244645d94291b69c" datatype="html">
+        <source>Copy</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">147</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1004ae9a7b263d34eb410a9bf3de2168e231bef4" datatype="html">
+        <source>Add A New User To Your Organization</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">166</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="6c57839a0ad9045d4255cc31780fea83237aba8b" datatype="html">
+        <source>Enter User email</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">176</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="f451a831018832ef5eaf51283878f4b8c474f980" datatype="html">
+        <source>Enter User description</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">179</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-user-row/user-row.component.ts</context>
+          <context context-type="linenumber">21</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="dedbf086b96c1b96ea366e7fc8de1cbba94eeeee" datatype="html">
+        <source>System of Engagement (SOE)</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">189</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="4c5a4933cd0117320ad4a8aad8253817bbb87e2a" datatype="html">
+        <source> <x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Add New User</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-management/role-management.component.ts</context>
+          <context context-type="linenumber">194</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="717522bb7042334d82b1b6783f8c14cbe09d5519" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Add Role</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-selector/role-selector.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3191e5416e688ea87f7171b62ff550b71722e852" datatype="html">
+        <source>{VAR_PLURAL, plural, =0 {} =1 {Select role} other {Select roles} }</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-role-selector/role-selector.component.ts</context>
+          <context context-type="linenumber">15</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="64ccf8c059b7f12f8a846ad28c5fd5f2cc21a671" datatype="html">
+        <source>System of Engagment</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-user-row/user-row.component.ts</context>
+          <context context-type="linenumber">12</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="e08a77594f3d89311cdf6da5090044270909c194" datatype="html">
+        <source>User</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-user-row/user-row.component.ts</context>
+          <context context-type="linenumber">14</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="030b4423b92167200e39519599f9b863b4f7c62c" datatype="html">
+        <source>Actions</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-user-row/user-row.component.ts</context>
+          <context context-type="linenumber">30</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="30fdc30d8b6510ea8f5821238dafc9a7c4f875e0" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Save</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-user-row/user-row.component.ts</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="52c9a103b812f258bcddc3d90a6e3f46871d25fe" datatype="html">
+        <source>Save</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-user-row/user-row.component.ts</context>
+          <context context-type="linenumber">32</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="8196915ae0628edf46911a9d77ea4f428c5c4b09" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Edit</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-user-row/user-row.component.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="28f86ffd419b869711aa13f5e5ff54be6d70731c" datatype="html">
+        <source>Edit</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-user-row/user-row.component.ts</context>
+          <context context-type="linenumber">33</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="befddb5ce638fc6da849f8be070d1ff23852467e" datatype="html">
+        <source><x id="START_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;i&gt;"/><x id="CLOSE_ITALIC_TEXT" ctype="x-i" equiv-text="&lt;/i&gt;"/> Cancel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-user-row/user-row.component.ts</context>
+          <context context-type="linenumber">34</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="3c32a07710e402b2c056bd346e7c42f6015334a6" datatype="html">
+        <source>Delete User</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-user-row/user-row.component.ts</context>
+          <context context-type="linenumber">37</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="78131fe25146c5eba09d2bc80eaff5efc7120f30" datatype="html">
+        <source>Are you sure you want to delete <x id="START_TAG_STRONG" ctype="x-strong" equiv-text="&lt;strong&gt;"/><x id="INTERPOLATION" equiv-text="{{ getUserName() }}"/><x id="CLOSE_TAG_STRONG" ctype="x-strong" equiv-text="&lt;/strong&gt;"/>?</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-user-row/user-row.component.ts</context>
+          <context context-type="linenumber">40</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="826b25211922a1b46436589233cb6f1a163d89b7" datatype="html">
+        <source>Delete</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-user-row/user-row.component.ts</context>
+          <context context-type="linenumber">43</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">modules/roles/components/gtd-user-row/user-row.component.ts</context>
+          <context context-type="linenumber">35</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
+
